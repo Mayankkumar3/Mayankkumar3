@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mayankkumar3
-- 👀 I’m interested in Hacking anyb sites.
+- 👀 I’m interested in Hacking any sites.
 - 🌱 I’m currently learning HMIS
 - 💞️ I’m looking to collaborate on Hackerone
 - 📫 How to reach me by Hackerone.
